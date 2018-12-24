@@ -1,2 +1,1 @@
-def greet():
-    print('Hello')
+from .text import greet
